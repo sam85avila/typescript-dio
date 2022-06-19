@@ -1,2 +1,2 @@
-# typescript-dio
-Repositório de desafio de projeto Typescript
+# Typescript
+Repositório de desafio de projeto Typescript da DIO
