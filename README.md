@@ -1,2 +1,2 @@
 # Typescript
-Repositório de desafio de projeto Typescript da DIO
+Repositório para o Desafio de Projeto Typescript do Bootcamp Santander Fullstack.
